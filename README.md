@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Cyber Security and OSINT<br>I'm passionate about AI and automation<br>A Computer Science graduate, and learning GIT and GITHUB<br>I am a newbie, contributions are welcome
+I'm currently learning Cyber Security and OSINT<br>I'm passionate about AI and automation<br>A Computer Science graduate, and learning GIT and GITHUB<br>I am a newbie, contributions are welcome
 
 
 ## 🌐 Socials:
